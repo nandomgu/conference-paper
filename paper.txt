@@ -1,9 +1,14 @@
-changed!paper 2019
+changedagainchanged!paper 2019
 
 intro
 results
 discussion
 methods
 alan m
+<<<<<<< HEAD
 no one is going home before 6
 change2 new
+=======
+no one is going home  before 6 yes we are
+change2
+>>>>>>> 3913baa1da5404bc62d249d4b740857ad6bb8fcb
